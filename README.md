@@ -21,6 +21,8 @@ You will find digital copies (PDFs, images, etc.) of certificates from different
 
 - Browse the folders to view certificates for specific courses.
 - Click on a certificate file to preview or download.
+  - Udemy Courses: https://github.com/Nihatms/MyCertificates/tree/main/Udemy
+  - Coursera Courses: https://github.com/Nihatms/MyCertificates/tree/main/Coursera
 
 ## 📧 Contact
 
